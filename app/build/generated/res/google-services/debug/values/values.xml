@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">646801409658-0mocbfc9atu8131pd2geommq75t62ij9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://accident-detection-97932-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">646801409658</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlTWJg1zsLfs6_fPuP4PktREik2U9o39o</string>
+    <string name="google_app_id" translatable="false">1:646801409658:android:40672a26687c1631665dc3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlTWJg1zsLfs6_fPuP4PktREik2U9o39o</string>
+    <string name="google_storage_bucket" translatable="false">accident-detection-97932.appspot.com</string>
+    <string name="project_id" translatable="false">accident-detection-97932</string>
+</resources>

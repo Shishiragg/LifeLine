@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646801409658",
+    "firebase_url": "https://accident-detection-97932-default-rtdb.firebaseio.com",
+    "project_id": "accident-detection-97932",
+    "storage_bucket": "accident-detection-97932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646801409658:android:40672a26687c1631665dc3",
+        "android_client_info": {
+          "package_name": "com.lifeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646801409658-0mocbfc9atu8131pd2geommq75t62ij9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTWJg1zsLfs6_fPuP4PktREik2U9o39o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646801409658-0mocbfc9atu8131pd2geommq75t62ij9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

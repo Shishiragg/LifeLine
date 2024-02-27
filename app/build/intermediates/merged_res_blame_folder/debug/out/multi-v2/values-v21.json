@@ -1,0 +1,138 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shish\\.gradle\\caches\\transforms-3\\fa00d5a61daba2c88a638e06d310e140\\transformed\\core-1.3.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
+                    },
+                    "to": {
+                        "startLines": "19,32,33,34,52,53,60,64,71,74",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "837,1489,1553,1620,2565,2681,3138,3432,3898,4070",
+                        "endLines": "19,32,33,34,52,53,60,64,73,78",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "950,1548,1615,1679,2676,2802,3259,3555,4065,4417"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\src\\main\\res\\values-v21\\ids.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,110",
+                        "endColumns": "51,38",
+                        "endOffsets": "104,144"
+                    },
+                    "to": {
+                        "startLines": "35,36",
+                        "startColumns": "4,4",
+                        "startOffsets": "1684,1736",
+                        "endColumns": "51,38",
+                        "endOffsets": "1731,1770"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\src\\main\\res\\values-v21\\attrs.xml",
+                    "from": {
+                        "startLines": "14,2,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "617,57,756",
+                        "endLines": "16,13,37",
+                        "endColumns": "24,24,24",
+                        "endOffsets": "750,611,1714"
+                    },
+                    "to": {
+                        "startLines": "82,85,97",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4584,4720,5268",
+                        "endLines": "84,96,117",
+                        "endColumns": "24,24,24",
+                        "endOffsets": "4715,5263,6206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "25,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "1214,57",
+                        "endLines": "25,16",
+                        "endColumns": "54,12",
+                        "endOffsets": "1264,856"
+                    },
+                    "to": {
+                        "startLines": "3,37",
+                        "startColumns": "4,4",
+                        "startOffsets": "96,1775",
+                        "endLines": "3,51",
+                        "endColumns": "54,12",
+                        "endOffsets": "146,2560"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\.gradle\\caches\\transforms-3\\100ee2aefc85aa60450f93c675f322ee\\transformed\\media-1.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "54,57,61,65",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2807,2975,3264,3560",
+                        "endLines": "56,59,63,67",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2970,3133,3427,3722"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\src\\main\\res\\values-v21\\themes.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "118,294",
+                        "endLines": "5,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "286,453"
+                    },
+                    "to": {
+                        "startLines": "68,79",
+                        "startColumns": "4,4",
+                        "startOffsets": "3727,4422",
+                        "endLines": "70,81",
+                        "endColumns": "12,12",
+                        "endOffsets": "3893,4579"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shish\\Downloads\\Lifeline2\\Lifeline\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "from": {
+                        "startLines": "4,9,17,8,15,16,20,27,25,29,24,23,18,10,28,19,7,13,14,2,3,21,5,6,26,22,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "148,400,796,340,670,729,920,1214,1125,1302,1083,1043,837,446,1255,877,292,582,622,57,100,961,190,240,1169,1001,492,533",
+                        "endColumns": "40,44,39,58,57,65,39,39,42,42,40,38,38,44,45,41,46,38,46,41,46,38,48,50,43,40,39,47",
+                        "endOffsets": "184,440,831,394,723,790,955,1249,1163,1340,1119,1077,871,486,1296,914,334,616,664,94,142,995,234,286,1208,1037,527,576"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,196,236,295,353,419,459,499,542,585,626,665,704,749,795,955,1002,1041,1088,1130,1177,1216,1265,1316,1360,1401,1441",
+                        "endColumns": "40,44,39,58,57,65,39,39,42,42,40,38,38,44,45,41,46,38,46,41,46,38,48,50,43,40,39,47",
+                        "endOffsets": "91,191,231,290,348,414,454,494,537,580,621,660,699,744,790,832,997,1036,1083,1125,1172,1211,1260,1311,1355,1396,1436,1484"
+                    }
+                }
+            ]
+        }
+    ]
+}

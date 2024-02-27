@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8d1e0dd666ac8a95bcee28d26ca65a73\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1a5c40df81ffa030146cabfe1c06df81\transformed\jetified-firebase-auth-9.6.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\f195ba70e6dd7651fda5636691f134e8\transformed\jetified-firebase-database-9.6.1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1f5779de8d98e34814974ab8e0134a0c\transformed\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\5807b082687aea2f77fb371f7631310d\transformed\jetified-firebase-auth-module-9.6.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\a3614814b5fa87d32f327313a68defe2\transformed\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\638fa073984462264512ef385d33d621\transformed\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\4a41a56f72e5c87a717d3ae2d90530e2\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\7eb86d89d833c85712047eec28d9e94d\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8918f3319b3965d77e9284c2c44dc7a0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\shish\.gradle\caches\transforms-3\61ac313a9d19af808382c74749ecd293\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\5b81462b9800f74e69c1667fa13b6c63\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\6cb9c6add0f8a1b78effd505d2bdd544\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\65897fa53ad16a38afa437d822b8b7af\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f4f6c12bb140f6a50fdad24a7b831810\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\8d4cd5b62557551c3346c03ab494bd0f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\d37c47791cad7e7c715f3e785189b19b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\b52ce388ed5dd792c1890f5f26adc6fc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\1f061a18cd95db346e681ab94d423975\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\100ee2aefc85aa60450f93c675f322ee\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\cb545a0814b5881772f1870b0c149cdb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\013749c73bb40e6c83e3a5da53773af8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8356ac3a5a4a5e348b9fc3570d3d644d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\546c50af6fb12066aba72cbbe44a0428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5e06e64d42084bd8654a1fec4b400ca8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f948dfc24c60672750897200c4e5dd13\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f64c271307ead8c9210c0f01a657c0f1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\a90c1bff0b56db8909d145ff80abe10b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\f944b426e9dde46ad35d6b216c9b4761\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\381542e06d894b4e2eeb6a32484fb4cd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5edd27b27194af46e12f01903449b580\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\81a43af552e8c878b22b373948acae22\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:15:5-95:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1a5c40df81ffa030146cabfe1c06df81\transformed\jetified-firebase-auth-9.6.1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1a5c40df81ffa030146cabfe1c06df81\transformed\jetified-firebase-auth-9.6.1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1f5779de8d98e34814974ab8e0134a0c\transformed\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1f5779de8d98e34814974ab8e0134a0c\transformed\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\638fa073984462264512ef385d33d621\transformed\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\638fa073984462264512ef385d33d621\transformed\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\013749c73bb40e6c83e3a5da53773af8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\013749c73bb40e6c83e3a5da53773af8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:17:9-39
+	android:allowBackup
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:20:9-52
+activity#com.lifeline.MainActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.lifeline.LoginScreenActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:22:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.lifeline.DashboardActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:30:9-55
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:30:19-52
+activity#com.lifeline.PersonalInfoActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:31:19-55
+activity#com.lifeline.SignUpActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:32:19-49
+activity#com.lifeline.MyEmerContActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:33:9-42:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:35:13-45
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:34:13-47
+intent-filter#action:name:android.intent.action.emergency_act+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.emergency_act
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:38:25-75
+category#android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:40:17-80
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:40:27-77
+activity#com.lifeline.Add_EmergencyActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:45:13-41
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:44:13-50
+intent-filter#action:name:android.intent.action.addemergency_activity+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.addemergency_activity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:48:17-86
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:48:25-83
+activity#com.lifeline.Edit_ContactActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:53:9-62:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:55:13-42
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:54:13-49
+intent-filter#action:name:android.intent.action.editcontact_activity+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.editcontact_activity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:58:17-85
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:58:25-82
+activity#com.lifeline.TrackingActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:63:9-72:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:65:13-38
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:66:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:64:13-45
+intent-filter#action:name:android.intent.action.tracking_activity+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:67:13-71:29
+action#android.intent.action.tracking_activity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:68:17-82
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:68:25-79
+activity#com.lifeline.MyAccount
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:73:9-81:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:74:13-40
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:73:19-44
+intent-filter#action:name:android.intent.action.my_account+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.my_account
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:77:13-71
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:77:21-68
+activity#com.lifeline.SendSMSActivity
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:82:9-90:20
+	android:label
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:83:13-38
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:82:19-50
+intent-filter#action:name:android.intent.category.send_sms+category:name:android.intent.category.ALTERNATIVE
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:85:9-89:21
+action#android.intent.category.send_sms
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:86:13-71
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:86:21-68
+service#com.lifeline.SensorService
+ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:92:9-94:40
+	android:exported
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml:93:13-42
+uses-sdk
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8d1e0dd666ac8a95bcee28d26ca65a73\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8d1e0dd666ac8a95bcee28d26ca65a73\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1a5c40df81ffa030146cabfe1c06df81\transformed\jetified-firebase-auth-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1a5c40df81ffa030146cabfe1c06df81\transformed\jetified-firebase-auth-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\f195ba70e6dd7651fda5636691f134e8\transformed\jetified-firebase-database-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\f195ba70e6dd7651fda5636691f134e8\transformed\jetified-firebase-database-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1f5779de8d98e34814974ab8e0134a0c\transformed\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\1f5779de8d98e34814974ab8e0134a0c\transformed\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\5807b082687aea2f77fb371f7631310d\transformed\jetified-firebase-auth-module-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\5807b082687aea2f77fb371f7631310d\transformed\jetified-firebase-auth-module-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\a3614814b5fa87d32f327313a68defe2\transformed\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\a3614814b5fa87d32f327313a68defe2\transformed\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\638fa073984462264512ef385d33d621\transformed\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\638fa073984462264512ef385d33d621\transformed\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\4a41a56f72e5c87a717d3ae2d90530e2\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\4a41a56f72e5c87a717d3ae2d90530e2\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\7eb86d89d833c85712047eec28d9e94d\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\7eb86d89d833c85712047eec28d9e94d\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8918f3319b3965d77e9284c2c44dc7a0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8918f3319b3965d77e9284c2c44dc7a0\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\shish\.gradle\caches\transforms-3\61ac313a9d19af808382c74749ecd293\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\shish\.gradle\caches\transforms-3\61ac313a9d19af808382c74749ecd293\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\5b81462b9800f74e69c1667fa13b6c63\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\5b81462b9800f74e69c1667fa13b6c63\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\6cb9c6add0f8a1b78effd505d2bdd544\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\6cb9c6add0f8a1b78effd505d2bdd544\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\65897fa53ad16a38afa437d822b8b7af\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\65897fa53ad16a38afa437d822b8b7af\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f4f6c12bb140f6a50fdad24a7b831810\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f4f6c12bb140f6a50fdad24a7b831810\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\8d4cd5b62557551c3346c03ab494bd0f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\8d4cd5b62557551c3346c03ab494bd0f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\d37c47791cad7e7c715f3e785189b19b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\d37c47791cad7e7c715f3e785189b19b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\b52ce388ed5dd792c1890f5f26adc6fc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\b52ce388ed5dd792c1890f5f26adc6fc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\1f061a18cd95db346e681ab94d423975\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\1f061a18cd95db346e681ab94d423975\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\100ee2aefc85aa60450f93c675f322ee\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\100ee2aefc85aa60450f93c675f322ee\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\cb545a0814b5881772f1870b0c149cdb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\cb545a0814b5881772f1870b0c149cdb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\shish\.gradle\caches\transforms-3\fa00d5a61daba2c88a638e06d310e140\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\013749c73bb40e6c83e3a5da53773af8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\shish\.gradle\caches\transforms-3\013749c73bb40e6c83e3a5da53773af8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8356ac3a5a4a5e348b9fc3570d3d644d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\8356ac3a5a4a5e348b9fc3570d3d644d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\546c50af6fb12066aba72cbbe44a0428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\546c50af6fb12066aba72cbbe44a0428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5e06e64d42084bd8654a1fec4b400ca8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5e06e64d42084bd8654a1fec4b400ca8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f948dfc24c60672750897200c4e5dd13\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f948dfc24c60672750897200c4e5dd13\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f64c271307ead8c9210c0f01a657c0f1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\f64c271307ead8c9210c0f01a657c0f1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\a90c1bff0b56db8909d145ff80abe10b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\shish\.gradle\caches\transforms-3\a90c1bff0b56db8909d145ff80abe10b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\f944b426e9dde46ad35d6b216c9b4761\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\f944b426e9dde46ad35d6b216c9b4761\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\381542e06d894b4e2eeb6a32484fb4cd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\381542e06d894b4e2eeb6a32484fb4cd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5edd27b27194af46e12f01903449b580\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\5edd27b27194af46e12f01903449b580\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\81a43af552e8c878b22b373948acae22\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shish\.gradle\caches\transforms-3\81a43af552e8c878b22b373948acae22\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shish\Downloads\Lifeline2\Lifeline\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\c283aba758e30031f36c4a0238639fb5\transformed\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\afb0f37133870bdab9c86e272264436f\transformed\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\shish\.gradle\caches\transforms-3\12e24ae6a331506276e1e8aadbd77995\transformed\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:20-65
